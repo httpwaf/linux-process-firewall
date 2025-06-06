@@ -45,14 +45,14 @@ Fedora 36+
 
 #### 六、实战演示地址
 
-实战地址 [http://101.42.31.94:9998/ok.html](http://101.42.31.94:9998/ok.html)
+实战地址 [http://39.106.251.213:9998/ok.html](http://39.106.251.213:9998/ok.html)
 
-更多演示[http://101.42.31.94:9998/prochtml/open_source.html](http://101.42.31.94:9998/prochtml/open_source.html)
+更多演示[http://39.106.251.213:9998/prochtml/open_source.html](http://39.106.251.213:9998/prochtml/open_source.html)
 
 #### 七、付费演示地址
 
 请用大屏电脑观看，首次加载大屏组件需要10秒：
-集中管控大屏 [http://101.42.31.94/center.html](http://101.42.31.94/center.html)
+集中管控大屏 [http://39.106.251.213/center.html](http://39.106.251.213/center.html)
 
 #### 八、源码或技术白皮书请加微信号httpwaf
 
