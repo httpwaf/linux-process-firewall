@@ -30,7 +30,7 @@ Fedora 36+
 
 商业版集成到全流量防火墙防御系统OpenHFw中，支持Linux x86 64位系统（内核大于5.0），保证可以上网，以root权限运行下面命令：
 
-    1、 wget http://101.42.31.94/openhfw
+    1、 wget http://101.42.31.94/openhfw (每天限10个下载体验）
     2、 chmod +x ./openhfw
     3、 ./openhfw
 
