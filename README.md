@@ -45,7 +45,7 @@ Fedora 36+
 
 #### 六、实战演示地址
 
-实战地址 [http://39.106.251.213:9998/ok.html](http://39.106.251.213:9998/ok.html)
+实战地址 [http://39.106.251.213:9998/navihtml/hiproc.html](http://39.106.251.213:9998/navihtml/hiproc.html)
 
 更多演示[http://39.106.251.213:9998/prochtml/open_source.html](http://39.106.251.213:9998/prochtml/open_source.html)
 
